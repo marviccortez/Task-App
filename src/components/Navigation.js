@@ -13,9 +13,9 @@ function Navigation() {
                 <Nav.Item as="li" className='nav-item'>
                     <Link className='nav-link' to="/about">About</Link>
                 </Nav.Item>
-                {/* <Nav.Item as="li" className='nav-item'>
+                <Nav.Item as="li" className='nav-item'>
                     <Link className='nav-link' to="/table">Table</Link>
-                </Nav.Item> */}
+                </Nav.Item>
                 <Nav.Item as="li" className='nav-item'>
                     <Link className='nav-link' to="/spacesModal">Spaces/Modal</Link>
                 </Nav.Item>
