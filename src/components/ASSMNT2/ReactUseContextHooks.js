@@ -1,8 +1,8 @@
 import {React,useState,createContext} from 'react';
 import * as Spaces from 'react-spaces';
 import {Card} from 'react-bootstrap';
-import Component1 from './UseContextComponent/Component1';
-import Component3 from './UseContextComponent/Component3';
+import Component1 from './Component1';
+import Component3 from './Component3';
 export const UserContext = createContext();
 function ReactUseContext() {
     const color1 = {background: "#84DFFF" };
