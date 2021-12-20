@@ -1,5 +1,5 @@
 import {useContext} from 'react';
-import {UserContext} from '../ReactUseContextHooks';
+import {UserContext} from './ReactUseContextHooks';
 
 function Component3 () {
     const date = useContext(UserContext);
